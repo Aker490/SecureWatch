@@ -8,6 +8,6 @@
 
 This program is designed to secure your computer by creating a system of authentication based on the specified folders. If the authentication folder is not detected within the specified time, the system will shut down to prevent unauthorized access.
 
-Note: The EXE version may trigger an antivirus warning due to its behavior, but the source code is provided here for transparency.
+Note: The EXE version may trigger antivirus warnings due to its behavior. Don't worry.
 
 Note: If this project gets 10 stars, I will share the source code.
